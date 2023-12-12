@@ -1,5 +1,5 @@
 import Todos from "./components/Todos"
-import AddTodo from "./components/addTodo"
+import AddTodo from "./components/AddTodo"
 function App() {
   return (
     <div className="bg-blue-100 h-screen w-full">
